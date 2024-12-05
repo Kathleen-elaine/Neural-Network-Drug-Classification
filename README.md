@@ -2,7 +2,7 @@
 This project implements a Neural Network algorithm to classify drug types based on features such as age, blood pressure, and cholesterol levels. The model is evaluated against a Logistic Regression model for precision, recall, F1-score, and accuracy.
 
 # Getting Started
-These instructions will help you set up the project on your local machine for development and testing purposes. See the Deployment section for notes on deploying the project on a live system.
+These instructions will help you set up the project on your local machine for development and testing purposes. Make sure you download the drugdatset provided and save it in your folder.
 
  # Prerequisites
 Python 3.7+
